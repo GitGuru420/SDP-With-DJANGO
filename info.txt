@@ -8,3 +8,6 @@ Part-1: Frontend Part
         - JavaScript
         - ES6 - DOM
         - API & DOM 
+
+Part-2: Backend Part
+        - Django Framework
