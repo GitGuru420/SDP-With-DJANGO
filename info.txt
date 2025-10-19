@@ -1,2 +1,10 @@
 Welcome to 
             "Software Development Project with Django Framework"
+
+Part-1: Frontend Part
+        - HTML
+        - CSS
+        - Bootstrap
+        - JavaScript
+        - ES6 - DOM
+        - API & DOM 
